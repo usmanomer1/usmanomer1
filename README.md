@@ -30,7 +30,6 @@ I wear many hats in the world of software development:
 
 ### 💡 Fun Facts:
 - I'm studying **Computer Science** at the **University of British Columbia**, rocking a 4.0 GPA 🎓💪.
-- Looking to transfer to a top 10 CS university in the USA 🇺🇸.
 - I love the thrill of finding a good deal on a **road bike** 🚴‍♂️ and you might catch me cruising around **Kitsilano**.
 - I have **Nike Vaporfly** shoes because speed is my game—whether on the track or in coding 💨.
 
