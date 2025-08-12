@@ -1,47 +1,39 @@
-### 👋 Hey there, I'm Usman Omer!
-
-I'm a 20-year-old **Software Engineer** and **AI Enthusiast** living in the beautiful city of **Vancouver, Canada** 🌲. When I'm not coding or sipping on a matcha latte with **Fairlife milk** 🍵, you’ll find me working on my next big project at [SFTWR Labs](https://sftwrlabs.com), the tech company I co-founded! 🎉
+Got it! Here's a more fun version with your personality:
 
 ---
 
-### 👨‍💻 What I Do:
-I wear many hats in the world of software development:
-- **Full-Stack Developer** – Skilled in **Spring Boot**, **React**, **Next.js**, and **AI integration** 🤖
-- **Cloud Solutions Expert** – Helping businesses with **Cloud Migration**, **DevOps Automation**, and **Infrastructure as Code (IaC)** ☁️
-- **AI Pioneer** – Building cutting-edge tools like **Gyde.ai**, an AI-powered educational platform 📚
-- **Recruitment Guru** – Connecting businesses in Canada with top tech talent from Pakistan through **offshore recruitment** 🌍
+### 👋 Hey, I'm Usman Omer!
+
+**3rd Year CS @ UBC Vancouver** | **Cofounder @ Jobotic.AI** | **Coffee-Powered Engineer** ☕
+
+Building AI solutions that actually work. Currently automating job apps for 1000+ users while burning $400/month on AI tools (worth every penny though).
 
 ---
 
-### 🛠️ My Tech Toolbox:
-- **Frontend:** React, Next.js, Bootstrap, Material-UI
-- **Backend:** Spring Boot, OpenAI, Kafka
-- **Cloud:** AWS, Infrastructure as Code, DevOps pipelines
-- **Databases:** MySQL, MongoDB, PostgreSQL
+### 💼 What I'm Building:
+- **Jobotic.AI** – Autonomous job application platform ($600 MRR, 1000+ applications/day)
+- **Enterprise Solutions** – Mining platform with AI-powered KYC verification
+- Previously founded **SFTWR Labs** – Tech consulting & development
 
 ---
 
-### 🚀 Currently Working On:
-- **Gyde.ai** – An AI-powered platform to revolutionize education.
-- A **marketplace for UBC** students, connecting buyers and sellers.
-- Scaling **SFTWR Labs** to bring affordable, high-quality tech solutions to businesses worldwide.
+### 🛠️ Tech Stack I Actually Use:
+- **Languages:** Java, Python, TypeScript, JavaScript, C++
+- **Backend:** Spring Boot, Node.js, FastAPI, Redis, PostgreSQL, Supabase, Convex (obsessed)
+- **Frontend:** React, Next.js, Tailwind CSS
+- **AI/ML:** Claude API, Gemini API, OpenAI API, Stagehand SDK, LangChain, MCP servers (Nia is a game-changer)
+- **DevOps:** Docker, Railway, BrowserBase, GitHub Actions, Terraform, Sentry, Kubernetes
+- **Daily Workflow:** Claude Code (literally can't live without it), Cursor (for testing GPT-5 & large Gemini refactors), Linear (PR tags are magic), Git (branching/merging miracle I thank daily)
+- **Honourable Mentions**: Autumn for billing is a game changer, i use it in jobotic, arcjet for rate limiting and other security features pretty clutch tpp.
+- I use linear too, but as a solo dev it gets lonely on linear lol
 
 ---
 
-### 💡 Fun Facts:
-- I'm studying **Computer Science** at the **University of British Columbia**, rocking a 4.0 GPA 🎓💪.
-- I love the thrill of finding a good deal on a **road bike** 🚴‍♂️ and you might catch me cruising around **Kitsilano**.
-- I have **Nike Vaporfly** shoes because speed is my game—whether on the track or in coding 💨.
+### 📫 Find Me:
+- **X:** [x.com/JoboticAI]([https://x.com/JoboticAI](https://x.com/UsmanOKayani))
+- **LinkedIn:** [linkedin.com/in/usmanomer](https://linkedin.com/in/usmanomer)
+- **Email:** uomer@student.ubc.ca
 
 ---
 
-### 💬 Let's Connect!
-- **Website:** [sftwrlabs.com](https://sftwrlabs.com)
-- **LinkedIn:** [https://www.linkedin.com/in/usmanomer/](https://www.linkedin.com/in/usmanomer/)
-
----
-
-### 🎯 Goals for 2024:
-- Build a **Skool group** to teach people in Pakistan how to break into software development and make money online 💼.
-- Land exciting AI and cloud migration projects for **SFTWR Labs**.
-- Attend more conferences like **QSite Conference** in Vancouver 🌐.
+*Currently in Vancouver, probably debugging with a matcha latte in hand.*
