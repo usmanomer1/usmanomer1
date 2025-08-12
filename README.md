@@ -1,7 +1,3 @@
-Got it! Here's a more fun version with your personality:
-
----
-
 ### 👋 Hey, I'm Usman Omer!
 
 **3rd Year CS @ UBC Vancouver** | **Cofounder @ Jobotic.AI** | **Coffee-Powered Engineer** ☕
