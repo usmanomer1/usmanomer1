@@ -1,6 +1,6 @@
 ### 👋 Hey, I'm Usman Omer!
 
-**3rd Year CS @ UBC Vancouver** | **Cofounder @ Jobotic.AI** | **Coffee-Powered Engineer** ☕
+**3rd Year CS @ UBC Vancouver** | **Cofounder @ [Jobotic.AI](https://www.jobotic.ai/)** | **Coffee-Powered Engineer** ☕
 
 Building AI solutions that actually work. Currently automating job apps for 1000+ users while burning $400/month on AI tools (worth every penny though).
 
