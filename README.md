@@ -26,7 +26,7 @@ Building AI solutions that actually work. Currently automating job apps for 1000
 ---
 
 ### 📫 Find Me:
-- **X:** [x.com/JoboticAI]([https://x.com/JoboticAI](https://x.com/UsmanOKayani))
+- **X:** [x.com/usmaokayani]([https://x.com/JoboticAI](https://x.com/UsmanOKayani))
 - **LinkedIn:** [linkedin.com/in/usmanomer](https://linkedin.com/in/usmanomer)
 - **Email:** uomer@student.ubc.ca
 
